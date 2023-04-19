@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryReorderDemo", "BinaryReorderDemo\BinaryReorderDemo.csproj", "{56ADDBB3-1761-4DFE-BB5A-5A2BE88F052A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56ADDBB3-1761-4DFE-BB5A-5A2BE88F052A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56ADDBB3-1761-4DFE-BB5A-5A2BE88F052A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56ADDBB3-1761-4DFE-BB5A-5A2BE88F052A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56ADDBB3-1761-4DFE-BB5A-5A2BE88F052A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {519452D6-60D8-4C7E-9309-5CE29692B854}
+	EndGlobalSection
+EndGlobal
